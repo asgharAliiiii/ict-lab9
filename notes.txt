@@ -2,3 +2,4 @@ Git is a version control system.
 Git works offline on my computer.
 A commit is a saved snapshot.
 A branch is a separate line of work.
+GitHub stores Git projects online.
